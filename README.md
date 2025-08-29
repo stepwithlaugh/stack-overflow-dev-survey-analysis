@@ -3,6 +3,8 @@
 ## 1) Project Overview  
 This project analyzes data from the **Stack Overflow Developer Survey** to uncover current technology usage patterns and forecast future trends.  
 
+➡️ *This project was completed as part of the **IBM Data Analyst Professional Certificate** on Coursera.*  
+
 **Objectives:**  
 - Identify the most popular programming languages, databases, platforms, and web frameworks used by developers.  
 - Explore future technology adoption trends based on developer interest.  
@@ -23,3 +25,5 @@ This project analyzes data from the **Stack Overflow Developer Survey** to uncov
 - **Python** – data cleaning & preparation  
 - **Tableau** – interactive visual dashboards  
 - **Google Looker Studio** – additional data storytelling and trend analysis  
+
+📌 *Note: This dataset and project were part of the Coursera **IBM Data Analyst Professional Certificate** and are intended for educational purposes.*  
